@@ -1,0 +1,17 @@
+---
+title: "Hw #1"
+authors: Samira, Catherine, Jay
+output: html_notebook
+---
+
+
+
+```{r}
+library(devtools)
+library(Rcpp) # have to load this BEFORE ohicore
+#install_github('ohi-science/ohicore')
+library(ohicore)
+
+
+```
+
