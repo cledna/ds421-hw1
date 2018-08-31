@@ -11,7 +11,20 @@ library(devtools)
 library(Rcpp) # have to load this BEFORE ohicore
 #install_github('ohi-science/ohicore')
 library(ohicore)
+library(ggplot2)
+library(dplyr)
 
+# ohi-core raw data is now installed in my home directory; too big to put on github 
+meancatch <-read.csv("ohi-global-2017.1/eez/layers/fis_meancatch.csv", stringsAsFactors = F)
+
+salmon <- meancatch %>%
+  filter(stock_id_taxonkey =="Salmonidae-61_400076")
+
+
+## Working on ggplot2
+salmon_plot <- ggplot(salmon, aes(year,meancatch))+
+  geom_line()
+  
 
 ```
 
