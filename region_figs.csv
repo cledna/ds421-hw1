@@ -1,0 +1,223 @@
+region_id,region_name,flower_png
+0,OHI Assessment,./figs/flower_OHIAssessment.png
+1,Cocos Islands,./figs/flower_CocosIslands.png
+2,Christmas Island,./figs/flower_ChristmasIsland.png
+3,Norfolk Island,./figs/flower_NorfolkIsland.png
+4,Macquarie Island,./figs/flower_MacquarieIsland.png
+5,New Caledonia,./figs/flower_NewCaledonia.png
+6,Vanuatu,./figs/flower_Vanuatu.png
+7,Solomon Islands,./figs/flower_SolomonIslands.png
+8,Palau,./figs/flower_Palau.png
+9,Micronesia,./figs/flower_Micronesia.png
+10,Nauru,./figs/flower_Nauru.png
+11,Marshall Islands,./figs/flower_MarshallIslands.png
+12,Wake Island,./figs/flower_WakeIsland.png
+13,Northern Mariana Islands and Guam,./figs/flower_NorthernMarianaIslandsandGuam.png
+14,Taiwan,./figs/flower_Taiwan.png
+15,Philippines,./figs/flower_Philippines.png
+16,Australia,./figs/flower_Australia.png
+17,Papua New Guinea,./figs/flower_PapuaNewGuinea.png
+18,Fiji,./figs/flower_Fiji.png
+19,Tuvalu,./figs/flower_Tuvalu.png
+20,South Korea,./figs/flower_SouthKorea.png
+21,North Korea,./figs/flower_NorthKorea.png
+24,Cambodia,./figs/flower_Cambodia.png
+25,Thailand,./figs/flower_Thailand.png
+26,Andaman and Nicobar,./figs/flower_AndamanandNicobar.png
+28,Comoro Islands,./figs/flower_ComoroIslands.png
+29,Mayotte,./figs/flower_Mayotte.png
+30,Glorioso Islands,./figs/flower_GloriosoIslands.png
+31,Seychelles,./figs/flower_Seychelles.png
+32,Reunion,./figs/flower_Reunion.png
+33,Juan de Nova Island,./figs/flower_JuandeNovaIsland.png
+34,Bassas da India,./figs/flower_BassasdaIndia.png
+35,Ile Europa,./figs/flower_IleEuropa.png
+36,Ile Tromelin,./figs/flower_IleTromelin.png
+37,Mauritius,./figs/flower_Mauritius.png
+38,British Indian Ocean Territory,./figs/flower_BritishIndianOceanTerritory.png
+39,Maldives,./figs/flower_Maldives.png
+40,Sri Lanka,./figs/flower_SriLanka.png
+41,Mozambique,./figs/flower_Mozambique.png
+42,Madagascar,./figs/flower_Madagascar.png
+43,Kenya,./figs/flower_Kenya.png
+44,Somalia,./figs/flower_Somalia.png
+45,Eritrea,./figs/flower_Eritrea.png
+46,Djibouti,./figs/flower_Djibouti.png
+47,Yemen,./figs/flower_Yemen.png
+48,Oman,./figs/flower_Oman.png
+49,Sudan,./figs/flower_Sudan.png
+50,Saudi Arabia,./figs/flower_SaudiArabia.png
+51,Kuwait,./figs/flower_Kuwait.png
+52,Bahrain,./figs/flower_Bahrain.png
+53,Pakistan,./figs/flower_Pakistan.png
+54,United Arab Emirates,./figs/flower_UnitedArabEmirates.png
+55,Azores,./figs/flower_Azores.png
+56,Cape Verde,./figs/flower_CapeVerde.png
+57,Madeira,./figs/flower_Madeira.png
+58,Canary Islands,./figs/flower_CanaryIslands.png
+59,Belgium,./figs/flower_Belgium.png
+60,Gibraltar,./figs/flower_Gibraltar.png
+61,Tunisia,./figs/flower_Tunisia.png
+62,Morocco,./figs/flower_Morocco.png
+63,Western Sahara,./figs/flower_WesternSahara.png
+64,Mauritania,./figs/flower_Mauritania.png
+65,Gambia,./figs/flower_Gambia.png
+66,Senegal,./figs/flower_Senegal.png
+67,Libya,./figs/flower_Libya.png
+68,Malta,./figs/flower_Malta.png
+69,Latvia,./figs/flower_Latvia.png
+70,Estonia,./figs/flower_Estonia.png
+71,Bulgaria,./figs/flower_Bulgaria.png
+72,Romania,./figs/flower_Romania.png
+73,Russia,./figs/flower_Russia.png
+74,Georgia,./figs/flower_Georgia.png
+75,Ukraine,./figs/flower_Ukraine.png
+76,Turkey,./figs/flower_Turkey.png
+77,Syria,./figs/flower_Syria.png
+78,Lebanon,./figs/flower_Lebanon.png
+79,Israel,./figs/flower_Israel.png
+80,Greece,./figs/flower_Greece.png
+81,Cyprus,./figs/flower_Cyprus.png
+82,Albania,./figs/flower_Albania.png
+84,Algeria,./figs/flower_Algeria.png
+85,Ascension,./figs/flower_Ascension.png
+86,Saint Helena,./figs/flower_SaintHelena.png
+88,Tristan da Cunha,./figs/flower_TristandaCunha.png
+89,South Georgia and the South Sandwich Islands,./figs/flower_SouthGeorgiaandtheSouthSandwichIslands.png
+90,Prince Edward Islands,./figs/flower_PrinceEdwardIslands.png
+91,Crozet Islands,./figs/flower_CrozetIslands.png
+92,Amsterdam Island and Saint Paul Island,./figs/flower_AmsterdamIslandandSaintPaulIsland.png
+93,Kerguelen Islands,./figs/flower_KerguelenIslands.png
+94,Heard and McDonald Islands,./figs/flower_HeardandMcDonaldIslands.png
+95,Falkland Islands,./figs/flower_FalklandIslands.png
+96,Sierra Leone,./figs/flower_SierraLeone.png
+97,Liberia,./figs/flower_Liberia.png
+98,Togo,./figs/flower_Togo.png
+99,Benin,./figs/flower_Benin.png
+100,Republique du Congo,./figs/flower_RepubliqueduCongo.png
+101,Namibia,./figs/flower_Namibia.png
+102,South Africa,./figs/flower_SouthAfrica.png
+103,Sao Tome and Principe,./figs/flower_SaoTomeandPrincipe.png
+104,Equatorial Guinea,./figs/flower_EquatorialGuinea.png
+105,Bouvet Island,./figs/flower_BouvetIsland.png
+106,Ghana,./figs/flower_Ghana.png
+107,Clipperton Island,./figs/flower_ClippertonIsland.png
+108,Bermuda,./figs/flower_Bermuda.png
+110,Bahamas,./figs/flower_Bahamas.png
+111,Turks and Caicos Islands,./figs/flower_TurksandCaicosIslands.png
+112,Cuba,./figs/flower_Cuba.png
+113,Cayman Islands,./figs/flower_CaymanIslands.png
+114,Haiti,./figs/flower_Haiti.png
+115,Dominican Republic,./figs/flower_DominicanRepublic.png
+116,Puerto Rico and Virgin Islands of the United States,./figs/flower_PuertoRicoandVirginIslandsoftheUnitedStates.png
+117,British Virgin Islands,./figs/flower_BritishVirginIslands.png
+118,Anguilla,./figs/flower_Anguilla.png
+119,Saint Kitts and Nevis,./figs/flower_SaintKittsandNevis.png
+120,Antigua and Barbuda,./figs/flower_AntiguaandBarbuda.png
+121,Montserrat,./figs/flower_Montserrat.png
+122,Saint Lucia,./figs/flower_SaintLucia.png
+123,Dominica,./figs/flower_Dominica.png
+124,Barbados,./figs/flower_Barbados.png
+125,Grenada,./figs/flower_Grenada.png
+126,Trinidad and Tobago,./figs/flower_TrinidadandTobago.png
+127,Saint Vincent and the Grenadines,./figs/flower_SaintVincentandtheGrenadines.png
+129,Panama,./figs/flower_Panama.png
+130,Costa Rica,./figs/flower_CostaRica.png
+131,Nicaragua,./figs/flower_Nicaragua.png
+132,Colombia,./figs/flower_Colombia.png
+133,Honduras,./figs/flower_Honduras.png
+134,El Salvador,./figs/flower_ElSalvador.png
+135,Mexico,./figs/flower_Mexico.png
+136,Guatemala,./figs/flower_Guatemala.png
+137,Ecuador,./figs/flower_Ecuador.png
+138,Peru,./figs/flower_Peru.png
+139,Venezuela,./figs/flower_Venezuela.png
+140,Guadeloupe and Martinique,./figs/flower_GuadeloupeandMartinique.png
+141,Faeroe Islands,./figs/flower_FaeroeIslands.png
+143,Iceland,./figs/flower_Iceland.png
+144,Jan Mayen,./figs/flower_JanMayen.png
+145,Greenland,./figs/flower_Greenland.png
+146,Pitcairn,./figs/flower_Pitcairn.png
+147,French Polynesia,./figs/flower_FrenchPolynesia.png
+148,Line Islands (Kiribati),./figs/flower_LineIslands(Kiribati).png
+149,Jarvis Island,./figs/flower_JarvisIsland.png
+150,Palmyra Atoll,./figs/flower_PalmyraAtoll.png
+151,American Samoa,./figs/flower_AmericanSamoa.png
+152,Samoa,./figs/flower_Samoa.png
+153,Cook Islands,./figs/flower_CookIslands.png
+154,Niue,./figs/flower_Niue.png
+155,Tonga,./figs/flower_Tonga.png
+156,Tokelau,./figs/flower_Tokelau.png
+157,Phoenix Islands (Kiribati),./figs/flower_PhoenixIslands(Kiribati).png
+158,Howland Island and Baker Island,./figs/flower_HowlandIslandandBakerIsland.png
+159,Johnston Atoll,./figs/flower_JohnstonAtoll.png
+161,Wallis and Futuna,./figs/flower_WallisandFutuna.png
+162,New Zealand,./figs/flower_NewZealand.png
+163,United States,./figs/flower_UnitedStates.png
+164,Belize,./figs/flower_Belize.png
+166,Jamaica,./figs/flower_Jamaica.png
+167,Guyana,./figs/flower_Guyana.png
+168,Suriname,./figs/flower_Suriname.png
+169,French Guiana,./figs/flower_FrenchGuiana.png
+171,Brazil,./figs/flower_Brazil.png
+172,Argentina,./figs/flower_Argentina.png
+173,Uruguay,./figs/flower_Uruguay.png
+174,Finland,./figs/flower_Finland.png
+175,Denmark,./figs/flower_Denmark.png
+176,Germany,./figs/flower_Germany.png
+177,Netherlands,./figs/flower_Netherlands.png
+178,Poland,./figs/flower_Poland.png
+179,France,./figs/flower_France.png
+180,United Kingdom,./figs/flower_UnitedKingdom.png
+181,Ireland,./figs/flower_Ireland.png
+182,Spain,./figs/flower_Spain.png
+183,Portugal,./figs/flower_Portugal.png
+184,Italy,./figs/flower_Italy.png
+185,Monaco,./figs/flower_Monaco.png
+186,Montenegro,./figs/flower_Montenegro.png
+187,Croatia,./figs/flower_Croatia.png
+188,Slovenia,./figs/flower_Slovenia.png
+189,Lithuania,./figs/flower_Lithuania.png
+190,Qatar,./figs/flower_Qatar.png
+191,Iran,./figs/flower_Iran.png
+192,Iraq,./figs/flower_Iraq.png
+193,Guinea Bissau,./figs/flower_GuineaBissau.png
+194,Guinea,./figs/flower_Guinea.png
+195,Ivory Coast,./figs/flower_IvoryCoast.png
+196,Nigeria,./figs/flower_Nigeria.png
+197,Cameroon,./figs/flower_Cameroon.png
+198,Gabon,./figs/flower_Gabon.png
+199,Democratic Republic of the Congo,./figs/flower_DemocraticRepublicoftheCongo.png
+200,Angola,./figs/flower_Angola.png
+202,Tanzania,./figs/flower_Tanzania.png
+203,India,./figs/flower_India.png
+204,Bangladesh,./figs/flower_Bangladesh.png
+205,Myanmar,./figs/flower_Myanmar.png
+206,Malaysia,./figs/flower_Malaysia.png
+207,Vietnam,./figs/flower_Vietnam.png
+208,Singapore,./figs/flower_Singapore.png
+209,China,./figs/flower_China.png
+210,Japan,./figs/flower_Japan.png
+212,Gilbert Islands (Kiribati),./figs/flower_GilbertIslands(Kiribati).png
+213,Antarctica,./figs/flower_Antarctica.png
+214,Egypt,./figs/flower_Egypt.png
+215,Jordan,./figs/flower_Jordan.png
+216,Indonesia,./figs/flower_Indonesia.png
+218,Canada,./figs/flower_Canada.png
+219,Saint Pierre and Miquelon,./figs/flower_SaintPierreandMiquelon.png
+220,Sint Maarten,./figs/flower_SintMaarten.png
+221,Northern Saint-Martin,./figs/flower_NorthernSaint-Martin.png
+222,Sweden,./figs/flower_Sweden.png
+223,Norway,./figs/flower_Norway.png
+224,Chile,./figs/flower_Chile.png
+227,Jersey,./figs/flower_Jersey.png
+228,Guernsey,./figs/flower_Guernsey.png
+231,East Timor,./figs/flower_EastTimor.png
+232,Bosnia and Herzegovina,./figs/flower_BosniaandHerzegovina.png
+237,Oecussi Ambeno,./figs/flower_OecussiAmbeno.png
+244,Curacao,./figs/flower_Curacao.png
+245,Bonaire,./figs/flower_Bonaire.png
+247,Brunei,./figs/flower_Brunei.png
+248,Saba,./figs/flower_Saba.png
+249,Sint Eustatius,./figs/flower_SintEustatius.png
+250,Aruba,./figs/flower_Aruba.png

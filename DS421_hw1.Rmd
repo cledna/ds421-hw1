@@ -11,7 +11,12 @@ library(devtools)
 library(Rcpp) # have to load this BEFORE ohicore
 #install_github('ohi-science/ohicore')
 library(ohicore)
+library(ggplot2)
+library(dplyr)
 
+source("flowerPlot.R")
+
+PlotFlower(scores_file = "scores.csv" , dir_fig_save = ".")
 
 ```
 
