@@ -1,0 +1,16 @@
+---
+title: "Unit One- Oceans Health"
+author: "Samira Siddique, Catherine Ledna, James Sayre"
+date: "August 31, 2018"
+output: word_document
+---
+
+##Objectives
+
+##Progress
+
+##Stumbling blocks
+
+##Results
+
+Download the data and, where applicable, the code used in the analysis and attempt to reproduce one or more parts of the analysis...At the end, complete a short writeup that provides a narrative description of your group’s objectives, progress, stumbling blocks, and any results. A page should be sufficient. Each group need only submit a single writeup each week. Plan to spend 3-4 hours on the reproducibility assignment, including the writeup. It is understood that this investment of time may not result in completion of the analysis; the point is rather to have you grapple with the method to improve your understanding.
