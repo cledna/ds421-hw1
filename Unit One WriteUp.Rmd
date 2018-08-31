@@ -6,11 +6,21 @@ output: word_document
 ---
 
 ##Objectives
+Our main objective is to reproduce the regional flower plots from the Halpern et al paper. 
 
 ##Progress
+1. We downloaded the raw data and scripts from the OHI Github site
+2. Sifted through the folder to find the appropriate R script and data to reproduce plots
+3. Used the flowerplot R script to reproduce the final scores for 2017 broken down by region
+4. Had to modify the directory paths in order to get the script to run successfully
+5. Reproduce the regional flower plot from the paper
 
 ##Stumbling blocks
+The main stumbling block of this assigment was that the data files from the OHI Github account were not well organized or described. We spent a lot of time trying to find the right csv and R source files before we were able to correctly reproduce our intended plot. 
+
+At first we tried to look through the readme file, but we could not access it due to an error on the Github site. So we had to sift through each R source script and found that there was no description of what the script does or documentation for the code itself. The flow of the data files, and how they are connected to each other in the analysis, was not clear.  
+
+In order to reproduce the plot and find the raw data we ran the R script to find the csv files, though the code kept referring to folders that did not exist. It turned out that the script was not in the appropriate directory to recreate the plots. We later found that it was in a different folder, and when we ran that script the plot reproduced successfully. 
 
 ##Results
-
-Download the data and, where applicable, the code used in the analysis and attempt to reproduce one or more parts of the analysis...At the end, complete a short writeup that provides a narrative description of your group’s objectives, progress, stumbling blocks, and any results. A page should be sufficient. Each group need only submit a single writeup each week. Plan to spend 3-4 hours on the reproducibility assignment, including the writeup. It is understood that this investment of time may not result in completion of the analysis; the point is rather to have you grapple with the method to improve your understanding.
+After spending time sifting through the code and trying to figure out how each data file was connected, it helped for us to modify the directory paths in order for the script to run successfully. We were able to reproduce a regional flower plot as intended. 
