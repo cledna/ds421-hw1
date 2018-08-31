@@ -5,7 +5,7 @@ date: "August 31, 2018"
 output: word_document
 ---
 
-##Objectives
+##Objective
 Our main objective is to reproduce the regional flower plots from the Halpern et al paper. 
 
 ##Progress
